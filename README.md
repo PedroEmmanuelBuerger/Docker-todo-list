@@ -1,14 +1,6 @@
 ## Docker Todo List
 Docker Todo List é um projeto desenvolvido com o objetivo de implementar uma aplicação simples de lista de tarefas utilizando o Docker para facilitar o processo de configuração e execução do ambiente de desenvolvimento.
 
-## Funcionalidades
-A aplicação possui as seguintes funcionalidades:
-Adicionar uma nova tarefa
-Marcar uma tarefa como concluída
-Remover uma tarefa
-Visualizar a lista de tarefas pendentes e concluídas
-
-
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - javascript
